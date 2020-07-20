@@ -2,6 +2,5 @@ red
 black
 blue
 green
-orange
 pink
-###brown
+purple
