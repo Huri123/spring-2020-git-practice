@@ -21,7 +21,7 @@ public class GoogleTests {
         driver.get("https://google.com");
         driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
     }
-//
+
     @Test
     public void test1() {
         Assert.assertEquals(driver.getTitle(), "Google");
